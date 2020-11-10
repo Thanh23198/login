@@ -6,7 +6,7 @@
     <link rel="stylesheet" href="login.css">
 </head>
 <body>
-<form method="post" action="123.php">
+<form method="post">
 <div class="login">
     <h2>Account Login</h2>
     <input type="text" name="email" placeholder="Email">
